@@ -52,5 +52,5 @@ apply my skills and knowledge to real-world projects and contribute to the advan
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devyanic11&label=Profile%20views&color=0d0d0d&style=flat" alt="devyanic11" /> </p>
 
-
+[![An image of @devyanic11's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/devyanic11)](https://holopin.io/@devyanic11)
 	  
