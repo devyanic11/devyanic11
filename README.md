@@ -1,14 +1,13 @@
 # 💫 About Me:
 
-<h4 align="center">A highly motivated student studying Artificial Intelligence and Machine Learning. Actively seeking opportunities to
-apply my skills and knowledge to real-world projects and contribute to the advancement of the industry.</h4>
+<h4 align="center">Teaching AI to do my job better than me.</h4>
 
 
-- 🔭 I’m currently working on **Machine Learning concepts**
-- 🌱 I’m currently learning **DSA**
-- 👯 I’m looking to collaborate on **Projects**
-- 🤝 I’m looking for help with **exploring opportunities**
-- 📫 How to reach me **devyanichavan110@gmail.com**
+- 🔭 Currently wrangling LLMs into submission
+- 🌱 Learning español because AI should be bilingual too
+- 👯 Would love to chat and share ideas to hack
+- 🤝 Always up for a collab 
+- 📫 Reach me at devyanichavan110@gmail.com - let's chat!
 <br>
 
 ## Connect with me:
