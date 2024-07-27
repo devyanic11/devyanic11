@@ -3,7 +3,7 @@
 <h4 align="center">Teaching AI to do my job better than me.</h4>
 
 
-- 🔭 Currently wrangling LLMs into submission
+- 🔭 Currently making cool stuff with LLMs
 - 🌱 Learning español because AI should be bilingual too
 - 👯 Would love to chat and share ideas to hack
 - 🤝 Always up for a collab 
